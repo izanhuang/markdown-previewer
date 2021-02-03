@@ -1,4 +1,4 @@
-Check out this website at https://izanhuang.github.io/random-quote-machine/
+Check out this website at https://izanhuang.github.io/markdown-previewer/
 
 # Getting Started with Create React App
 
